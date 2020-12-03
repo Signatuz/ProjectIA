@@ -9,7 +9,7 @@ categories = ['MINT', 'ROSEMARY', 'BASIL', 'CHIVES', 'PARSLEY', 'THYME', 'BOXES'
 
 
 def write(row):
-    with open('datanovo.csv', 'a+', newline='') as file:
+    with open('datanew.csv', 'a+', newline='') as file:
         writer = csv.writer(file)
         writer.writerow(row)
 
