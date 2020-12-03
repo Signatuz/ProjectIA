@@ -1,0 +1,15 @@
+Design = ['gingham', 'butterfly', 'zinc', 'star', 'skull', 'dolly', 'wood', 'retro', 'strawberry',
+         'mini', 'polkadot', 'spot', 'cream', 'rose', 'spaceboy', 'ceramic', 'glasse', 'vintage', 'retrospot', 'heart',
+         'spots', 'skulls', 'scandinavian', 'london', 'french', 'wooden', 'woodland', 'bakelike', 'feltrcraft', 'porcelain',
+         'spaceboy', 'glass', 'traditional', 'bird', 'birds', 'flower', 'antique', 'tube']
+
+Categories = ['box', 'cake', 'christmas', 'hanging', 'light', 'holder', 'sign', 'jumbo', 'lunch', 'paper', 'tea', 'card',
+              'cases', 'decoration', 'water', 'bottle', 'mug', 'party', 'garden', 'wrap', 'bowl', 'birthday', 
+              'photo', 'frame', 'candle', 'key', 'ring', 'travel', 'egg', 'cup', 
+              'lights', 'cutlery', 'candles', 'door', 'gift', 'clock', 'trinket', 
+              'drawer', 'stand', 'pencils', 'ribbons', 'napkins', 'notebook', 'photo', 'alarm', 'dog',
+             'kitchen', 'storage', 'childrens', 'cup', 'cat', 'wall', 'art', 'cushion', 'cover', 'popcorn', 'soap', 'baking', 'door', 'of']
+
+stop_words = ['SET', 'PACK', 'SMALL', 'LARGE', 'JUMBO', 'OF']
+
+colors = ['BLACK', 'BLUE', 'BROWN', 'GOLD', 'GREEN', 'GREY', 'ORANGE', 'PINK', 'PURPLE', 'RED', 'SILVER', 'WHITE', 'YELLOW', 'IVORY']
