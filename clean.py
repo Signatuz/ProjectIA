@@ -1,7 +1,7 @@
 import csv
 from csv import reader
 
-colors = ['BLACK', 'BLUE', 'BROWN', 'GOLD', 'GREEN', 'GREY', 'ORANGE', 'PINK', 'PURPLE', 'RED', 'SILVER', 'WHITE', 'YELLOW', 'IVORY']
+colors = ['BLACK', 'BLUE', 'BROWN', 'GOLD', 'GREEN', 'GREY', 'ORANGE', 'PINK', 'PURPLE', 'RED', 'SILVER', 'WHITE', 'YELLOW', 'IVORY', 'BLACK/BLUE']
 
 stop_words = ['SET', 'PACK', 'SMALL', 'LARGE', 'JUMBO', 'OF']
 
