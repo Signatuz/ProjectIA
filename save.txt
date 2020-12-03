@@ -8,7 +8,7 @@ Categories = ['box', 'cake', 'christmas', 'hanging', 'light', 'holder', 'sign', 
               'photo', 'frame', 'candle', 'key', 'ring', 'travel', 'egg', 'cup', 
               'lights', 'cutlery', 'candles', 'door', 'gift', 'clock', 'trinket', 
               'drawer', 'stand', 'pencils', 'ribbons', 'napkins', 'notebook', 'photo', 'alarm', 'dog',
-             'kitchen', 'storage', 'childrens', 'cup', 'cat', 'wall', 'art', 'cushion', 'cover', 'popcorn', 'soap', 'baking', 'door', 'of']
+             'kitchen', 'storage', 'childrens', 'cup', 'cat', 'wall', 'art', 'cushion', 'cover', 'popcorn', 'soap', 'baking', 'door', 'OF']
 
 stop_words = ['SET', 'PACK', 'SMALL', 'LARGE', 'JUMBO', 'OF']
 
