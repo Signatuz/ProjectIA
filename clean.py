@@ -4,7 +4,7 @@ from csv import reader
 colors = ['BLACK', 'BLUE', 'BROWN', 'GOLD', 'GREEN', 'GREY', 'ORANGE', 'PINK', 'PURPLE', 'RED', 'SILVER', 'WHITE', 'YELLOW', 'IVORY', 'BLACK/BLUE']
 
 stop_words = ['SET', 'PACK', 'SMALL', 'LARGE', 'JUMBO', 'OF', '&', 'IN', 'SET/10', ' DOLLY', 'GIRL', 'CIRCUS', 'PARADE', 'BAKE', 'CAKE', 'A', 'IN',
-             'TIN' 'STRONGMAN', 'SKULLS','SPACEBOYS', 'GIRAFFE', 'REVOLVER', 'SET/2','SET/3','SET/4','SET/5','SET/7','SET/8','SET/9', 'OF4','500g']
+             'TIN' 'STRONGMAN', 'SKULLS','SPACEBOYS', 'GIRAFFE', 'REVOLVER', 'SET/2','SET/3','SET/4','SET/5','SET/7','SET/8','SET/9', 'OF4','500g','+']
 
 categories = ['DINOSAURS','BALLOONS','MINT', 'ROSEMARY', 'BASIL', 'CHIVES', 'PARSLEY', 'THYME', 'BOXES', 'BOX',"50'S", 'POLKADOT', 'RETROSPOT',
              'ANIMALS', 'AND', 'NATURE','HORSE','PONY','BUFFALO', 'BILL','TOMATO','CARROT']
