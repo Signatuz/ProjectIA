@@ -1,14 +1,10 @@
-Design = ['gingham', 'butterfly', 'zinc', 'star', 'skull', 'dolly', 'wood', 'retro', 'strawberry',
-         'mini', 'polkadot', 'spot', 'cream', 'rose', 'spaceboy', 'ceramic', 'glasse', 'vintage', 'retrospot', 'heart',
-         'spots', 'skulls', 'scandinavian', 'london', 'french', 'wooden', 'woodland', 'bakelike', 'feltrcraft', 'porcelain',
-         'spaceboy', 'glass', 'traditional', 'bird', 'birds', 'flower', 'antique', 'tube']
+Design = ['GINGHAM', 'BUTTERFLY', 'ZINC', 'STAR', 'SKULL', 'DOLLY', 'WOOD', 'RETRO', 'STRAWBERRY',
+         'MINI', 'POLKADOT', 'SPOT', 'CREAM', 'ROSE', 'CERAMIC', 'GLASSE', 'VINTAGE', 'RETROSPOT', 'HEART',
+         'SPOTS', 'SKULLS', 'SCANDINAVIAN', 'LONDON', 'FRENCH', 'WOODEN', 'WOODLAND', 'BAKELIKE', 'FELTCRAFT', 'PORCELAIN',
+         'SPACEBOY', 'GLASS', 'TRADICIONAL', 'BIRD', 'BIRDS', 'FLOWER', 'ANTIQUE', 'TUBE']
 
-Categories = ['box', 'cake', 'christmas', 'hanging', 'light', 'holder', 'sign', 'jumbo', 'lunch', 'paper', 'tea', 'card',
-              'cases', 'decoration', 'water', 'bottle', 'mug', 'party', 'garden', 'wrap', 'bowl', 'birthday', 
-              'photo', 'frame', 'candle', 'key', 'ring', 'travel', 'egg', 'cup', 
-              'lights', 'cutlery', 'candles', 'door', 'gift', 'clock', 'trinket', 
-              'drawer', 'stand', 'pencils', 'ribbons', 'napkins', 'notebook', 'photo', 'alarm', 'dog',
-             'kitchen', 'storage', 'childrens', 'cup', 'cat', 'wall', 'art', 'cushion', 'cover', 'popcorn', 'soap', 'baking', 'door', 'OF']
+Categories = ['BOX', 'CAKE', 'CHRISTMAS', 'HANGING', 'LIGHT', 'HOLDER', 'SIGN', 'JUMBO', 'LUNCH', 'PAPER', 'TEA', 'CARD', 'CASES', 'DECORATION', 'WATER', 'BOTTLE', 'MUG', 'PARTY', 'GARDEN', 
+'WRAP', 'BOWL', 'BIRTHDAY', 'PHOTO', 'FRAME', 'CANDLE', 'KEY', 'RING', 'TRAVEL', 'EGG', 'CUP', 'LIGHTS', 'CUTLERY', 'CANDLES', 'DOOR', 'GIFT', 'CLOCK', 'TRINKET', 'DRAWER', 'STAND', 'PENCILS', 'RIBBONS', 'NAPKINS', 'NOTEBOOK', 'PHOTO', 'ALARM', 'DOG', 'KITCHEN', 'STORAGE', 'CHILDRENS', 'CUP', 'CAT', 'WALL', 'ART', 'CUSHION', 'COVER', 'POPCORN', 'SOAP', 'BAKING', 'DOOR', 'OF']
 
 stop_words = ['SET', 'PACK', 'SMALL', 'LARGE', 'JUMBO', 'OF']
 
